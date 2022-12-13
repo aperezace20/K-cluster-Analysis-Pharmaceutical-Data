@@ -1,5 +1,5 @@
-read the pharmaceutical data into your python IDE;
-explore and standardize the data;
-determine the optimal k using elbow method
-perform k-cluster analysis
-visualize the interpret the clusters
+1. read the pharmaceutical data into your python IDE;
+2. explore and standardize the data;
+3. determine the optimal k using elbow method
+4. perform k-cluster analysis
+5. visualize the interpret the clusters
